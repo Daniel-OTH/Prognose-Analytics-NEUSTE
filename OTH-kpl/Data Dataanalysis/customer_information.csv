@@ -1,0 +1,106 @@
+customer_id,address,city,plz,region,branch,employees
+Kunde_001,93 Musterstraße,Augsburg,86150,Süd,Logistics,116
+Kunde_002,103 Musterstraße,Hamburg,20095,Nord,Retail,476
+Kunde_003,88 Musterstraße,Nürnberg,90402,Süd,Automotive,109
+Kunde_004,53 Musterstraße,Stuttgart,70173,Süd,Retail,353
+Kunde_005,130 Musterstraße,Köln,50667,Mitte,Healthcare,286
+Kunde_006,58 Musterstraße,Hannover,30159,Nord,Food & Beverage,262
+Kunde_007,59 Musterstraße,Hamburg,20095,Nord,Logistics,691
+Kunde_008,190 Musterstraße,Stuttgart,70173,Süd,Logistics,967
+Kunde_009,55 Musterstraße,Augsburg,86150,Süd,Healthcare,841
+Kunde_010,51 Musterstraße,Kiel,24103,Nord,Logistics,30
+Kunde_011,18 Musterstraße,Kiel,24103,Nord,Healthcare,610
+Kunde_012,9 Musterstraße,Köln,50667,Mitte,Retail,574
+Kunde_013,92 Musterstraße,Leipzig,04109,Mitte,Logistics,965
+Kunde_014,8 Musterstraße,Augsburg,86150,Süd,Logistics,44
+Kunde_015,164 Musterstraße,Frankfurt am Main,60311,Mitte,Retail,881
+Kunde_016,134 Musterstraße,Köln,50667,Mitte,Food & Beverage,115
+Kunde_017,191 Musterstraße,Frankfurt am Main,60311,Mitte,Retail,739
+Kunde_018,190 Musterstraße,Köln,50667,Mitte,Healthcare,279
+Kunde_019,15 Musterstraße,Augsburg,86150,Süd,Food & Beverage,736
+Kunde_020,40 Musterstraße,Bremen,28195,Nord,Automotive,729
+Kunde_021,111 Musterstraße,Bremen,28195,Nord,Automotive,801
+Kunde_022,188 Musterstraße,Frankfurt am Main,60311,Mitte,Healthcare,502
+Kunde_023,15 Musterstraße,Hamburg,20095,Nord,Automotive,74
+Kunde_024,9 Musterstraße,Kiel,24103,Nord,Manufacturing,657
+Kunde_025,81 Musterstraße,Nürnberg,90402,Süd,IT Services,428
+Kunde_026,5 Musterstraße,Kiel,24103,Nord,Retail,240
+Kunde_027,28 Musterstraße,Frankfurt am Main,60311,Mitte,Logistics,210
+Kunde_028,48 Musterstraße,Frankfurt am Main,60311,Mitte,Logistics,416
+Kunde_029,37 Musterstraße,Leipzig,04109,Mitte,IT Services,693
+Kunde_030,35 Musterstraße,Düsseldorf,40213,Mitte,Manufacturing,748
+Kunde_031,131 Musterstraße,Kiel,24103,Nord,Manufacturing,14
+Kunde_032,142 Musterstraße,Düsseldorf,40213,Mitte,Logistics,804
+Kunde_033,15 Musterstraße,Kiel,24103,Nord,Retail,563
+Kunde_034,63 Musterstraße,Kiel,24103,Nord,Logistics,250
+Kunde_035,132 Musterstraße,Hannover,30159,Nord,Food & Beverage,494
+Kunde_036,143 Musterstraße,Nürnberg,90402,Süd,IT Services,550
+Kunde_037,71 Musterstraße,Hannover,30159,Nord,IT Services,252
+Kunde_038,66 Musterstraße,Leipzig,04109,Mitte,Retail,566
+Kunde_039,134 Musterstraße,Frankfurt am Main,60311,Mitte,Healthcare,37
+Kunde_040,75 Musterstraße,Köln,50667,Mitte,Retail,357
+Kunde_041,190 Musterstraße,Kiel,24103,Nord,Manufacturing,394
+Kunde_042,190 Musterstraße,Kiel,24103,Nord,Manufacturing,637
+Kunde_043,3 Musterstraße,Hamburg,20095,Nord,Logistics,719
+Kunde_044,62 Musterstraße,München,80331,Süd,Automotive,234
+Kunde_045,172 Musterstraße,Stuttgart,70173,Süd,Logistics,836
+Kunde_046,96 Musterstraße,Leipzig,04109,Mitte,Manufacturing,701
+Kunde_047,186 Musterstraße,Bremen,28195,Nord,Healthcare,277
+Kunde_048,130 Musterstraße,Düsseldorf,40213,Mitte,IT Services,122
+Kunde_049,184 Musterstraße,Hamburg,20095,Nord,Manufacturing,708
+Kunde_050,130 Musterstraße,Bremen,28195,Nord,Healthcare,575
+Kunde_051,129 Musterstraße,München,80331,Süd,IT Services,647
+Kunde_052,172 Musterstraße,Frankfurt am Main,60311,Mitte,Retail,681
+Kunde_053,68 Musterstraße,Leipzig,04109,Mitte,Logistics,212
+Kunde_054,38 Musterstraße,München,80331,Süd,Automotive,893
+Kunde_055,139 Musterstraße,Köln,50667,Mitte,Logistics,761
+Kunde_056,124 Musterstraße,Hamburg,20095,Nord,IT Services,335
+Kunde_057,148 Musterstraße,Kiel,24103,Nord,Healthcare,964
+Kunde_058,195 Musterstraße,Stuttgart,70173,Süd,Logistics,156
+Kunde_059,161 Musterstraße,Augsburg,86150,Süd,Logistics,347
+Kunde_060,185 Musterstraße,Kiel,24103,Nord,Manufacturing,955
+Kunde_061,42 Musterstraße,Nürnberg,90402,Süd,IT Services,272
+Kunde_062,60 Musterstraße,Leipzig,04109,Mitte,Manufacturing,11
+Kunde_063,140 Musterstraße,Hannover,30159,Nord,Automotive,46
+Kunde_064,9 Musterstraße,Nürnberg,90402,Süd,Manufacturing,108
+Kunde_065,131 Musterstraße,Augsburg,86150,Süd,Healthcare,161
+Kunde_066,161 Musterstraße,Leipzig,04109,Mitte,Healthcare,596
+Kunde_067,164 Musterstraße,Hannover,30159,Nord,Food & Beverage,113
+Kunde_068,112 Musterstraße,Düsseldorf,40213,Mitte,Food & Beverage,482
+Kunde_069,93 Musterstraße,München,80331,Süd,Retail,905
+Kunde_070,194 Musterstraße,Köln,50667,Mitte,Food & Beverage,172
+Kunde_071,161 Musterstraße,Hamburg,20095,Nord,Healthcare,810
+Kunde_072,48 Musterstraße,Frankfurt am Main,60311,Mitte,Healthcare,513
+Kunde_073,145 Musterstraße,Nürnberg,90402,Süd,Manufacturing,697
+Kunde_074,119 Musterstraße,Nürnberg,90402,Süd,Food & Beverage,759
+Kunde_075,109 Musterstraße,Köln,50667,Mitte,IT Services,447
+Kunde_076,21 Musterstraße,Nürnberg,90402,Süd,Food & Beverage,618
+Kunde_077,197 Musterstraße,Augsburg,86150,Süd,Healthcare,838
+Kunde_078,35 Musterstraße,Augsburg,86150,Süd,Manufacturing,521
+Kunde_079,158 Musterstraße,Hannover,30159,Nord,Automotive,55
+Kunde_080,99 Musterstraße,Bremen,28195,Nord,Healthcare,754
+Kunde_081,93 Musterstraße,Hannover,30159,Nord,Manufacturing,311
+Kunde_082,99 Musterstraße,Kiel,24103,Nord,Healthcare,125
+Kunde_083,160 Musterstraße,München,80331,Süd,Logistics,170
+Kunde_084,18 Musterstraße,Augsburg,86150,Süd,Manufacturing,744
+Kunde_085,67 Musterstraße,Köln,50667,Mitte,Food & Beverage,801
+Kunde_086,175 Musterstraße,Leipzig,04109,Mitte,Food & Beverage,672
+Kunde_087,155 Musterstraße,Düsseldorf,40213,Mitte,Retail,395
+Kunde_088,104 Musterstraße,Frankfurt am Main,60311,Mitte,Manufacturing,402
+Kunde_089,176 Musterstraße,Stuttgart,70173,Süd,Logistics,486
+Kunde_090,26 Musterstraße,Düsseldorf,40213,Mitte,IT Services,827
+Kunde_091,13 Musterstraße,Hannover,30159,Nord,Healthcare,515
+Kunde_092,36 Musterstraße,München,80331,Süd,Automotive,29
+Kunde_093,144 Musterstraße,Hannover,30159,Nord,Food & Beverage,981
+Kunde_094,143 Musterstraße,Nürnberg,90402,Süd,Healthcare,363
+Kunde_095,191 Musterstraße,Leipzig,04109,Mitte,Food & Beverage,60
+Kunde_096,63 Musterstraße,Bremen,28195,Nord,Food & Beverage,134
+Kunde_097,58 Musterstraße,Köln,50667,Mitte,Food & Beverage,314
+Kunde_098,15 Musterstraße,Köln,50667,Mitte,Food & Beverage,453
+Kunde_099,8 Musterstraße,Hamburg,20095,Nord,Automotive,581
+Kunde_100,196 Musterstraße,Kiel,24103,Nord,Food & Beverage,886
+Kunde_101,99 Musterstraße,Düsseldorf,40213,Mitte,Logistics,945
+Kunde_102,124 Musterstraße,Bremen,28195,Nord,Retail,679
+Kunde_103,120 Musterstraße,München,80331,Süd,Logistics,796
+Kunde_104,90 Musterstraße,Düsseldorf,40213,Mitte,Automotive,483
+Kunde_105,23 Musterstraße,Bremen,28195,Nord,Logistics,402
